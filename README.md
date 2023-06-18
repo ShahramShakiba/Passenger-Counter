@@ -1,5 +1,5 @@
 # Passenger-Counter
-A counting application made with HTML, CSS and JavaScript
+A counting application build with HTML, CSS and JavaScript
 
 The benefits of a counter include:
 1. Tracking progress :
