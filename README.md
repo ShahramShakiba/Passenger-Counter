@@ -4,11 +4,11 @@ It is a mini-project of counting application to practice _HTML_, _CSS_ and _Java
 
 - **`The benefits of a counter includes :`**<br/>
 **1. Tracking progress :**<br/>
-such as the number of times a product has been sold or the number of visitors to a website.<br/><br/>
+such as the number of times a product has been sold or the number of visitors to a website.<br/>
 **2. Transparency :**<br/>
-A counter can provide transparency to stakeholders, such as customers or investors, by showing the progress of a project or initiative.<br/><br/>
+A counter can provide transparency to stakeholders, such as customers or investors, by showing the progress of a project or initiative.<br/>
 **3. Accountability :**<br/>
-A counter can help hold individuals or teams accountable for meeting certain targets or goals.<br/><br/>
+A counter can help hold individuals or teams accountable for meeting certain targets or goals.<br/>
 **4. Analysis :**<br/>
 By analyzing the data collected by a counter, you can gain insights into trends and patterns, which can inform future decisions and strategies.
 
@@ -19,6 +19,6 @@ https://github.com/ShahramShakiba/Passenger-Counter/assets/110089830/451754d0-c7
  https://shahramshakiba.github.io/Passenger-Counter/
 
  ## Stay in touch :
- • Author - <a href="https://t.me/DevZEEMO">Shahram Shakiba</a> <br/>
+ • `Author` - <a href="https://t.me/DevZEEMO">Shahram Shakiba</a> <br/>
  • Linkedin - https://linkedin.com/in/shahram-shakiba-a19223248 <br/>
  • Instagram - https://instagram.com/dev_zeemo?igshid=MzNlNGNkZWQ4Mg==
