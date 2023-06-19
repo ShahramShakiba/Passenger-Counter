@@ -2,8 +2,7 @@
 Passenger-Counter :<br/>
 It is a mini-project of counting application to practice HTML, CSS and JavaScript.  
 
-❗ The benefits of a counter includes:
-1. Tracking progress :
+❗ The benefits of a counter includes:1. Tracking progress :
 such as the number of times a product has been sold or the number of visitors to a website.
 2. Transparency :
 A counter can provide transparency to stakeholders, such as customers or investors, by showing the progress of a project or initiative.
