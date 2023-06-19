@@ -15,7 +15,7 @@ By analyzing the data collected by a counter, you can gain insights into trends 
 ### Video
 https://github.com/ShahramShakiba/Passenger-Counter/assets/110089830/451754d0-c7ef-4208-a8b9-226b3fbfd091
 
-## Try it Live :
+## Try it live :
  https://shahramshakiba.github.io/Passenger-Counter/
 
  ## Stay in touch :
