@@ -20,5 +20,5 @@ https://github.com/ShahramShakiba/Passenger-Counter/assets/110089830/451754d0-c7
 
  # Stay in touch :
  • Author - <a href="https://github.com/ShahramShakiba">Shahram Shakiba</a> <br/>
- • Linkedin - https://linkedin.com/in/shahram-shakiba-a19223248
+ • Linkedin - https://linkedin.com/in/shahram-shakiba-a19223248 <br/>
  • Instagram - https://instagram.com/dev_zeemo?igshid=MzNlNGNkZWQ4Mg==
