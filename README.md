@@ -1,6 +1,6 @@
 # Description
-**_Passenger-Counte_r** :<br/>
-It is a mini-project of counting application to practice `HTML`, `CSS` and `JavaScript`.  
+**_Passenger-Counter_** :<br/>
+  It is a mini-project of counting application to practice `HTML`, `CSS` and `JavaScript`.  
 
 - **`The benefits of a counter includes :`**<br/>
 **_1. Tracking progress_ :**<br/>
