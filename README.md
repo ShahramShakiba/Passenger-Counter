@@ -1,5 +1,5 @@
 # Description
-<div style='color: 'red';'>Passenger-Counter</div> 
+Passenger-Counter :<br/>
 It is a counting application build with HTML, CSS and JavaScript
 
 The benefits of a counter include:
