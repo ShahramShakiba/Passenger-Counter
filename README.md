@@ -2,7 +2,7 @@
 **Passenger-Counter** :<br/>
 It is a mini-project of counting application to practice _HTML_, _CSS_ and _JavaScript_.  
 
-- **The benefits of a counter includes**:<br/>
+- **The benefits of a counter includes** `hsl(212, 92%, 45%)`:<br/>
 **1. Tracking progress :**<br/>
 such as the number of times a product has been sold or the number of visitors to a website.<br/>
 **2. Transparency :**<br/>
