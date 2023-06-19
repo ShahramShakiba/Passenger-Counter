@@ -1,6 +1,6 @@
 # Description
 **_Passenger-Counter_** :<br/>
-  > It is a mini-project of counting application to practice `HTML`, `CSS` and `JavaScript`.  <br/>
+  > This is a mini-project of counting application to practice `HTML`, `CSS` and `JavaScript`.  <br/>
 
 - A _Counter application_ is a useful tool for tracking and monitoring various types of data. It can help individuals and businesses to make data-driven decisions and manage their resources more effectively.
 
