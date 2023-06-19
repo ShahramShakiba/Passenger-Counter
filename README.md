@@ -1,6 +1,5 @@
 # Description
-<p style='color: cornflowerblue;'>Passenger-Counter :</p> 
-It is a counting application build with HTML, CSS and JavaScript
+<div style='color: cornflowerblue;'>Passenger-Counter</div> It is a counting application build with HTML, CSS and JavaScript
 
 The benefits of a counter include:
 1. Tracking progress :
